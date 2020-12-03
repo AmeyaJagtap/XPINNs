@@ -17,4 +17,5 @@ References: For adaptive activation functions
 
 4. A.D. Jagtap, K.Kawaguchi, G.E.Karniadakis, Adaptive activation functions accelerate convergence in deep and physics-informed neural networks, Journal of Computational Physics, 404 (2020) 109136. (https://doi.org/10.1016/j.jcp.2019.109136)
 
-# Feel free to contact me for any queries regarding the XPINN code. My emails: ameya_jagtap@brown.edu, ameyadjagtap@gmail.com
+
+For any queries regarding the XPINN code, feel free to contact me : ameya_jagtap@brown.edu, ameyadjagtap@gmail.com
