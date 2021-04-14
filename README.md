@@ -10,14 +10,23 @@ References: For Domain Decomposition based PINN framework
 1. A.D.Jagtap, G.E.Karniadakis, Extended Physics-Informed Neural Networks (XPINNs): A Generalized Space-Time Domain Decomposition Based Deep Learning Framework for Nonlinear Partial Differential Equations, Commun. Comput. Phys., Vol.28, No.5, 2002-2041, 2020. (https://doi.org/10.4208/cicp.OA-2020-0164)
 
 @article{jagtap2020extended,
+
   title={Extended Physics-Informed Neural Networks (XPINNs): A Generalized Space-Time Domain Decomposition Based Deep Learning Framework for Nonlinear Partial Differential Equations},
+  
   author={Jagtap, Ameya D and Karniadakis, George Em},
+  
   journal={Communications in Computational Physics},
+  
   volume={28},
+  
   number={5},
+  
   pages={2002--2041},
+  
   year={2020},
+  
   publisher={GLOBAL SCIENCE PRESS ROOM 3208, CENTRAL PLAZA, 18 HARBOUR RD, WANCHAI, HONG~…}
+  
 }
 
 2. A.D.Jagtap, E. Kharazmi, G.E.Karniadakis, Conservative physics-informed neural networks on discrete domains for conservation laws: Applications to forward and inverse problems, Computer Methods in Applied Mechanics and Engineering, 365, 113028 (2020). (https://doi.org/10.1016/j.cma.2020.113028)
