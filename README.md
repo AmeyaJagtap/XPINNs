@@ -9,13 +9,56 @@ References: For Domain Decomposition based PINN framework
 
 1. A.D.Jagtap, G.E.Karniadakis, Extended Physics-Informed Neural Networks (XPINNs): A Generalized Space-Time Domain Decomposition Based Deep Learning Framework for Nonlinear Partial Differential Equations, Commun. Comput. Phys., Vol.28, No.5, 2002-2041, 2020. (https://doi.org/10.4208/cicp.OA-2020-0164)
 
+@article{jagtap2020extended,
+  title={Extended Physics-Informed Neural Networks (XPINNs): A Generalized Space-Time Domain Decomposition Based Deep Learning Framework for Nonlinear Partial Differential Equations},
+  author={Jagtap, Ameya D and Karniadakis, George Em},
+  journal={Communications in Computational Physics},
+  volume={28},
+  number={5},
+  pages={2002--2041},
+  year={2020},
+  publisher={GLOBAL SCIENCE PRESS ROOM 3208, CENTRAL PLAZA, 18 HARBOUR RD, WANCHAI, HONG~…}
+}
+
 2. A.D.Jagtap, E. Kharazmi, G.E.Karniadakis, Conservative physics-informed neural networks on discrete domains for conservation laws: Applications to forward and inverse problems, Computer Methods in Applied Mechanics and Engineering, 365, 113028 (2020). (https://doi.org/10.1016/j.cma.2020.113028)
+
+@article{jagtap2020conservative,
+  title={Conservative physics-informed neural networks on discrete domains for conservation laws: Applications to forward and inverse problems},
+  author={Jagtap, Ameya D and Kharazmi, Ehsan and Karniadakis, George Em},
+  journal={Computer Methods in Applied Mechanics and Engineering},
+  volume={365},
+  pages={113028},
+  year={2020},
+  publisher={Elsevier}
+}
+
 
 References: For adaptive activation functions
 
 3. A.D.Jagtap, K.Kawaguchi, G.E.Karniadakis, Locally adaptive activation functions with slope recovery for deep and physics-informed neural networks, Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 20200334, 2020. (http://dx.doi.org/10.1098/rspa.2020.0334).
 
+@article{jagtap2020locally,
+  title={Locally adaptive activation functions with slope recovery for deep and physics-informed neural networks},
+  author={Jagtap, Ameya D and Kawaguchi, Kenji and Em Karniadakis, George},
+  journal={Proceedings of the Royal Society A},
+  volume={476},
+  number={2239},
+  pages={20200334},
+  year={2020},
+  publisher={The Royal Society}
+}
+
 4. A.D. Jagtap, K.Kawaguchi, G.E.Karniadakis, Adaptive activation functions accelerate convergence in deep and physics-informed neural networks, Journal of Computational Physics, 404 (2020) 109136. (https://doi.org/10.1016/j.jcp.2019.109136)
+
+@article{jagtap2020adaptive,
+  title={Adaptive activation functions accelerate convergence in deep and physics-informed neural networks},
+  author={Jagtap, Ameya D and Kawaguchi, Kenji and Karniadakis, George Em},
+  journal={Journal of Computational Physics},
+  volume={404},
+  pages={109136},
+  year={2020},
+  publisher={Elsevier}
+}
 
 
 For any queries regarding the XPINN code, feel free to contact me : ameya_jagtap@brown.edu, ameyadjagtap@gmail.com
