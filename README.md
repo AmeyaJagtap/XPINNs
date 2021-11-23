@@ -82,7 +82,8 @@ References: For adaptive activation functions
        journal={Neurocomputing},
        volume={468},
        pages={165--180},
-       year={2022}
+       year={2022},
+       publisher={Elsevier}
        }
 
 Recommended software versions: TensorFlow 1.14, Python 3.6, Latex (for plotting figures)
